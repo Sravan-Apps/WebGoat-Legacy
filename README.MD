@@ -1,5 +1,7 @@
 # Important Information
 
+[![Build Status](https://travis-ci.org/Sravan-Apps/WebGoat-Legacy.svg?branch=master)](https://travis-ci.org/Sravan-Apps/WebGoat-Legacy)
+
 Thank you for downloading WebGoat!  This is the WebGoat Legacy version which is essentially the WebGoat 5 with a new UI. 
 
 This program is a demonstration of common server-side application flaws. The
